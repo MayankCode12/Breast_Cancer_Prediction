@@ -56,5 +56,5 @@ Feel free to open issues or submit pull requests. Contributions are welcome!
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For queries, reach out to [Purushottam](https://github.com/Purushottam29) or email at **purushottamchoudhary2910@gmail.com**.
+For queries, reach out to [Mayank Kumar] or email at **mk2441355@gmail.com**.
 
